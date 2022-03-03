@@ -1,0 +1,34 @@
+﻿utility_name_urdb,utility_name_gis,urdb_label,rate_name,Active,min_kw,max_kw,effective_date
+Pacific Gas & Electric Co,Pacific Gas & Electric Company,5e162d795457a3223473e3af,A-1 Small General Service TOU (Poly-Phase),1,0,75,1/1/20
+Pacific Gas & Electric Co,Pacific Gas & Electric Company,5e1630285457a3d35f73e3af,A-10 Medium General Demand Service TOU (Secondary Voltage),1,75,500,1/1/20
+Pacific Gas & Electric Co,Pacific Gas & Electric Company,608c4eec5457a357322165f8,E-19 Medium General Demand TOU (Secondary),1,500,1000,3/1/21
+Pacific Gas & Electric Co,Pacific Gas & Electric Company,5ed987ec5457a3487edd15ae,E-20 Maximum demand of (1000 KW or more) (Secondary),1,1000,,3/1/21
+Southern California Edison Co,Southern California Edison,5bc7b6c75457a3a2783b43ec,"TOU-GS-1, Option A",1,0,20,10/1/18
+Southern California Edison Co,Southern California Edison,5bc7ba425457a3b5483b43ed,"TOU-GS-2, Option A",1,20,200,10/1/18
+Southern California Edison Co,Southern California Edison,5bc7bf095457a3b5483b43ef,"TOU-GS-3, Option A",1,200,500,10/1/18
+Los Angeles Department of Water & Power,Los Angeles Department of Water & Power,5cd304535457a30e7954e9d3,Small General Service Time-Of-Use (A-1)(B),1,0,30,4/1/19
+Los Angeles Department of Water & Power,Los Angeles Department of Water & Power,5a3821035457a32645d2dd80,Primary Service A-2 Rate Time-Of-Use (TOU),1,30,,4/1/19
+Sacramento Municipal Utility District,Sacramento Municipal Utility District,5dbc7e515457a3d81edc72bb,Small Nondemand Service (GSN-T),1,0,20,6/25/19
+Sacramento Municipal Utility District,Sacramento Municipal Utility District,5dbc85155457a38c20dc72bb,Small Demand Service (GSS-T),1,20,300,6/25/19
+Sacramento Municipal Utility District,Sacramento Municipal Utility District,5dbc9a5f5457a33c1fdc72bb,Small General Service Time Of Use GS-TOU3 (GUS-S) Secondary,1,300,500,6/25/19
+Sacramento Municipal Utility District,Sacramento Municipal Utility District,5dbc89695457a3d23fdc72bc,Medium General Service Time of Use GS-TOU2 (GUS-M) Secondary,1,500,1000,6/25/19
+Sacramento Municipal Utility District,Sacramento Municipal Utility District,5dbc87985457a37e1cdc72bb,Large General Service Time of Use GS-TOU1 (GUS-L) Secondary,1,1000,,6/25/19
+San Diego Gas & Electric Co,San Diego Gas & Electric,5cb73fe75457a35a0a9b6ec3,TOU-A Secondary (0-5kW),1,0,5,3/1/19
+San Diego Gas & Electric Co,San Diego Gas & Electric,5c3930105457a3991c91e8cb,TOU-A Secondary (5-20kW),1,5,20,3/1/19
+San Diego Gas & Electric Co,San Diego Gas & Electric,5c3930165457a3470c91e8cf,TOU-A Secondary (20-50kW),1,20,50,3/1/19
+San Diego Gas & Electric Co,San Diego Gas & Electric,5c39300a5457a3bd1091e8cd,TOU-A Secondary (Above 50kW),1,50,,3/1/19
+"City of Riverside, California (Utility Company)",City of Riverside,5b4e59355457a3d45fc6d674,General Service (Greater than 1500 kWh),1,0,20,3/26/13
+"City of Riverside, California (Utility Company)",City of Riverside,5b4e59875457a3bb64c6d676,General Service - Demand Basis,1,20,150,3/26/13
+"City of Riverside, California (Utility Company)",City of Riverside,5b4e5a895457a34913c6d675,Large General and Industrial Service,1,150,,3/26/13
+Imperial Irrigation District,Imperial Irrigation District,54bff5315357a34f756bdba2,SCHEDULE GL LARGE GENERAL SERVICE,1,100,,1/1/15
+Imperial Irrigation District,Imperial Irrigation District,54bfef0a5357a3db776bdba2,Schedule GS General Service,1,0,100,1/1/15
+Modesto Irrigation District,Modesto Irrigation District,5b2809e05457a3f778e5d862,Schedule GS-1 General Service - Non Demand,1,0,20,1/1/12
+Modesto Irrigation District,Modesto Irrigation District,5b280bc95457a3723de5d862,Schedule GS-2 General Service - Demand,1,20,500,1/1/17
+Modesto Irrigation District,Modesto Irrigation District,5b2815535457a3cc4ce5d862,"Schedule GS-TOU General Service - Commercial, Time-of-Use",1,500,1000,1/1/17
+Modesto Irrigation District,Modesto Irrigation District,5b2822665457a30764e5d864,Schedule GS-3 General Service - Industrial,1,1000,,1/1/17
+"City of Anaheim, California (Utility Company)",City of Anaheim Public Utilities Department,5b1ffd8e5457a3317835b56a,General Service- <50 kV -Schedule -GS-2,1,200,500,5/1/17
+"City of Anaheim, California (Utility Company)",City of Anaheim Public Utilities Department,5b1ed2aa5457a3ef4335b56b,General Service -Demand -Schedule GS-1,1,0,200,5/1/18
+"City of Anaheim, California (Utility Company)",City of Anaheim Public Utilities Department,5b1ee9f55457a3cb4d35b56b,Time-of-Use -50kV and below,1,500,,5/1/17
+Turlock Irrigation District,Turlock Irrigation District,5b4ccdff5457a3e50dc6d674,Schedule CT Commercial Service - Time-Of-Use Under 35 kW,1,0,35,1/1/15
+Turlock Irrigation District,Turlock Irrigation District,5b4d09295457a3ca09c6d674,Schedule IT Small Industrial Service - Time-Of-Use 35 to 499 kW,1,35,500,1/1/15
+Turlock Irrigation District,Turlock Irrigation District,5b4d105a5457a3a85fc6d678,"Schedule HT Large Industrial Service - Demand Metered 500 to 2,999 kW, Time-Of-Use",1,500,,1/1/15
